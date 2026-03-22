@@ -42,7 +42,7 @@ One user → many orders
 
 Looker Development Mode enabled
 
-![Development Mode](Look_ML Project/dev-mode.png)
+![Development Mode](Look_MLProject/dev-mode.png)
 
 ---
 
@@ -50,7 +50,7 @@ Looker Development Mode enabled
 
 Defines project-level constants and connection
 
-![Manifest](Look_ML Project/manifest.png)
+![Manifest](Look_MLProject/manifest.png)
 
 ---
 
@@ -58,7 +58,7 @@ Defines project-level constants and connection
 
 Defines joins between tables
 
-![Model](Look_ML Project/model.png)
+![Model](Look_MLProject/model.png)
 
 ---
 
@@ -76,7 +76,7 @@ measure: revenue_per_user {
 }
 ```
 
-![Measures](Look_ML Project/measures.png)
+![Measures](Look_MLProject/measures.png)
 
 ---
 
@@ -84,7 +84,7 @@ measure: revenue_per_user {
 
 Revenue by Day of Week
 
-![Final Output](Look_ML Project/final-output.png)
+![Final Output](Look_MLProject/final-output.png)
 
 ---
 
