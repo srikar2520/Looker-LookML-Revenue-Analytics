@@ -1,5 +1,10 @@
 # 📊 Looker LookML Revenue Analytics
 
+## 🚀 Project Overview
+
+This project demonstrates the implementation of **LookML (Looker Modeling Language)** to design a structured data model and analyze business performance using a cloud-based dataset from **Google BigQuery**.
+
+---
 ## 🧠 Business Problem
 
 An e-commerce company wants to analyze revenue patterns and user behavior to improve business performance. Specifically, the company aims to:
@@ -9,12 +14,6 @@ An e-commerce company wants to analyze revenue patterns and user behavior to imp
 * Detect patterns in purchasing behavior over time
 
 The goal is to build a scalable data model and generate actionable insights to support data-driven decision-making.
-
----
-
-## 🚀 Project Overview
-
-This project demonstrates the implementation of **LookML (Looker Modeling Language)** to design a structured data model and analyze business performance using a cloud-based dataset from **Google BigQuery**.
 
 ---
 
